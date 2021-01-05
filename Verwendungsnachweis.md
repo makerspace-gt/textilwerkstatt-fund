@@ -102,6 +102,18 @@ Verwendungsnachweis zur Maßnahme Einrichtung einer öffentlichen Textilwerkstat
 3. Bestätigung, dass zuwendungsfähige Ausgaben mindestens in Höhe des Finanzierungsplanes des Zuwendungsantrags und des Zuwendungsbescheids entstanden sind.
 
 #### Sachbericht
+Als wir im Mai erfahren haben, dass unsere Förderung bewilligt wird, wurde zunächst die Einkaufsliste noch einmal geprüft. Viele Näh- und Stickmaschinen waren aufgrund der gestiegenen Nachfrage von Nähartikeln durch Pandemie und Maskenpflicht nicht mehr erhältlich, darunter auch die Modelle die wir uns ausgesucht haben.  
+Bei einer Veranstaltung des Repair Café wurde der Inhaber des Nähmaschinen Handwerk aus Gütersloh auf uns Aufmerksam. Wir haben über die Einrichtung der Textilwerkstatt gesprochen und konnten ihn damit so Begeistern, dass er uns hochwertigere Maschinen für einen ähnlichen Preis angeboten hat.  
+Wir wurden durch diesen Kontakt noch einmal darin bestätigt, dass wir in einer Textilregion beheimatet sind und sich der Kontakt mit lokalen Händlern lohnt.  
+Siebdruck-Set, Plotter, Bügeleisen und Verbrauchsmaterial waren noch in ähnlicher Weise Verfügbar, sodass wir im Juni und Juli alles bestellen konnten. Insgesamt haben wir 2.345,27 € von ursprünglich geplanten 2.309,90 € ausgegeben.  
+Die Lieferungen haben sich über einen weiten Zeitraum gestreckt. Im Juni kam das Siebdruck-Set, das Bügeleisen und der Plotter, im Juli die Kettelmaschine, im September die Nähmaschine und im Dezember die Stickmaschine.  
+Wenn eine Maschine geliefert wurde, haben wir einen Lagerplatz eingerichtet und einen Funktionstest durchgeführt um uns von der Qualität zu überzeugen. Da das Vereinsleben aktuell stark eingeschränkt ist konnte die Einrichtung jedoch noch nicht abgeschlossen werden. Hoffentlich können ausführliche Inbetriebnahmen und Workshops in der zweiten Hälfte des Jahres 2021 stattfinden. Solange bieten wir unseren Mitgliedern die Möglichkeit die Maschinen zur Nutzung und Erforschung auszuleihen.  
+Als Vorbereitung für die Nutzung können sich die Mitglieder schon mit dem Zeichenprogramm Inkscape (https://inkscape.org/de/) vertraut machen. Dies kann genutzt werden um Dateien für die Stickmaschine, das Siebdruck-Set und den Plotter zu erstellen. Für die Stickmaschine müssen anschließend noch die Stiche und Garne zugewiesen werden. Dazu nutzen wir die Freie Software Ink/Stitch (https://inkstitch.org/de/).  
+Unabhängig von dieser Förderung haben wir noch einen A0-Farbdrucker gespendet bekommen, welcher sich gut in die Textilwerkstatt eingliedert um Beispielsweise Schnittmuster auszudrucken.
+
+Im April haben wir uns bereits anderweitig im Bereich Textilien engagiert und ca. 800 Scheiben für Face Shields im Rahmen von Maker vs. Virus (https://www.makervsvirus.org/) mit unserem Lasercutter hergestellt.
+
+Die Unterlagen zu dieser Förderung sind auf github (https://github.com/makerspace-gt/textilwerkstatt-fund) dokumentiert, sodass auch andere Initiativen davon profitieren können.
 
 # 5. Zahlenmäßiger Nachweis
 |  Nr.  | Leistendes Unternehmen | Art der Leistung        | Zahldatum  | Betrag in EUR |
@@ -143,7 +155,15 @@ die Antragstellerin oder der Antragsteller zum Vorsteuerabzug:
 - [ ] berechtigt ist und dies bei der Berechnung der Ausgaben berücksichtigt hat.
 
 # 7. Dokumentenupload
-Es können noch 10 Dokument(e) hochgeladen werden.
+Es können noch 2 Dokument(e) hochgeladen werden.
 
-| Bezeichnung | Name                  |
-| :---------- | :-------------------- |
+| Bezeichnung                                                                         | Name            |                                                                 |
+| :---------------------------------------------------------------------------------- | :-------------- | --------------------------------------------------------------- |
+| [942aca5eef47792e3660eccb311a35f4.jpg](images/942aca5eef47792e3660eccb311a35f4.jpg) | Nähmaschine     | ![Nähmaschine](images/942aca5eef47792e3660eccb311a35f4.jpg)     |
+| [5fc00d85d1fe296c1a23d1cb0f420e92.jpg](images/5fc00d85d1fe296c1a23d1cb0f420e92.jpg) | Kettelmaschine  | ![Kettelmaschine](images/5fc00d85d1fe296c1a23d1cb0f420e92.jpg)  |
+| [ffb22311ff03bb7ee216676503f8b6f0.jpg](images/ffb22311ff03bb7ee216676503f8b6f0.jpg) | Stickmaschine   | ![Stickmaschine](images/ffb22311ff03bb7ee216676503f8b6f0.jpg)   |
+| [161fcaa958c55e308cd3c3bb859b2d88.jpg](images/161fcaa958c55e308cd3c3bb859b2d88.jpg) | Siebdruck Set   | ![Siebdruck Set](images/161fcaa958c55e308cd3c3bb859b2d88.jpg)   |
+| [f518e6ea4a458105b83bfe05a4a7a11e.jpg](images/f518e6ea4a458105b83bfe05a4a7a11e.jpg) | Plotter         | ![Plotter](images/f518e6ea4a458105b83bfe05a4a7a11e.jpg)         |
+| [b829337a9df37b5e1effbae42eac1407.jpg](images/b829337a9df37b5e1effbae42eac1407.jpg) | Bügeleisen      | ![Bügeleisen](images/b829337a9df37b5e1effbae42eac1407.jpg)      |
+| [38cbd94579c53078752114aafeb1c6e2.jpg](images/38cbd94579c53078752114aafeb1c6e2.jpg) | Textilwerkstatt | ![Textilwerkstatt](images/38cbd94579c53078752114aafeb1c6e2.jpg) |
+| [001515c2a89d99e865b331ae957fde04.jpg](images/001515c2a89d99e865b331ae957fde04.jpg) | A0-Drucker      | ![A0-Drucker](images/001515c2a89d99e865b331ae957fde04.jpg)      |
