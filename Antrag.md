@@ -76,7 +76,7 @@ Wir wollen möglichst vielen Bürgerinnen und Bürgern ein Wertgefühl für Klei
 
 Unter unseren Mitgliedern besitzen wir die Expertise und Motivation um die Notwendigen Fähigkeiten im Umgang mit den Maschinen und Anlagen vom Design bis zur Fertigung an andere weiter zu geben. Um das gemeinschaftliche Arbeiten zu stärken soll regelmäßig ein Näh Café veranstaltet werden, bei dem alle willkommen sind und so auch Anfänger von den Erfahrungen der anderen profitieren können.
 
-Eine Auflistung der geplanten Anschaffungen ist in "[Anlage 1 - Einkaufsliste](Anlage%201%20-%20Einkaufsliste.md)" zu finden.RegierungsbezirkDetmoldKreis / Kreisfreie StadtGütersloh
+Eine Auflistung der geplanten Anschaffungen ist in "[Anlage 1 - Einkaufsliste](Anlage%201%20-%20Einkaufsliste.md)" zu finden.
 
 #### Stadt / Gemeinde
 Gütersloh
