@@ -1,0 +1,14 @@
+#### Sachbericht
+
+Als wir im Mai erfahren haben, dass unsere Förderung bewilligt wird, wurde zunächst die Einkaufsliste noch einmal geprüft. Viele Näh- und Stickmaschinen waren aufgrund der gestiegenen Nachfrage von Nähartikeln durch Pandemie und Maskenpflicht nicht mehr erhältlich, darunter auch die Modelle, die wir uns ausgesucht haben.  
+Bei einer Veranstaltung des Repair Café wurde der Inhaber des "Nähmaschinen Handwerk" aus Gütersloh auf uns aufmerksam. Wir haben über die Einrichtung der Textilwerkstatt gesprochen und konnten ihn damit so begeistern, dass er uns hochwertigere Maschinen für einen ähnlichen Preis anbot.  
+Wir wurden durch diesen Kontakt noch einmal darin bestätigt, dass wir in einer Textilregion beheimatet sind und sich der Kontakt mit lokalen Händlern lohnt.  
+Siebdruck-Set, Plotter, Bügeleisen und Verbrauchsmaterial waren noch in ähnlicher Weise verfügbar, sodass wir im Juni und Juli alles bestellen konnten. Insgesamt haben wir 2.345,27 € von ursprünglich geplanten 2.309,90 € ausgegeben.  
+Die Lieferungen haben sich über einen weiten Zeitraum gestreckt. Im Juni kamen das Siebdruck-Set, das Bügeleisen und der Plotter, im Juli die Kettelmaschine, im September die Nähmaschine und im Dezember die Stickmaschine.  
+Wenn eine Maschine geliefert wurde, haben wir einen Lagerplatz eingerichtet und einen Funktionstest durchgeführt, um uns von der Qualität zu überzeugen. Da das Vereinsleben aktuell stark eingeschränkt ist, konnte die Einrichtung jedoch noch nicht abgeschlossen werden. Hoffentlich können ausführliche Inbetriebnahmen und Workshops in der zweiten Hälfte des Jahres 2021 stattfinden. Solange bieten wir unseren Mitgliedern die Möglichkeit, die Maschinen zur Nutzung und Erforschung auszuleihen.  
+Als Vorbereitung für die Nutzung können sich die Mitglieder schon mit dem Zeichenprogramm Inkscape (https://inkscape.org/de/) vertraut machen. Dies kann genutzt werden um Dateien für die Stickmaschine, das Siebdruck-Set und den Plotter zu erstellen. Für die Stickmaschine müssen anschließend noch die Stiche und Garne zugewiesen werden. Dazu nutzen wir die freie Software Ink/Stitch (https://inkstitch.org/de/).  
+Unabhängig von dieser Förderung haben wir noch einen A0-Farbdrucker gespendet bekommen, welcher sich gut in die Textilwerkstatt eingliedert, um beispielsweise Schnittmuster auszudrucken.
+
+Im April haben wir uns bereits anderweitig im Bereich Textilien engagiert und ca. 800 Scheiben für Face Shields im Rahmen von Maker vs. Virus (https://www.makervsvirus.org/) mit unserem Lasercutter hergestellt.
+
+Die Unterlagen zu dieser Förderung sind auf github (https://github.com/makerspace-gt/textilwerkstatt-fund) dokumentiert, sodass auch andere Initiativen davon profitieren können.
